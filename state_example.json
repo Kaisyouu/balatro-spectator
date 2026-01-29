@@ -1,0 +1,22 @@
+{
+  "ante": 1,
+  "money": 10,
+  "required_score": 600,
+  "current_score": 0,
+  "hand": [
+    "A of Hearts",
+    "K of Hearts",
+    "Q of Hearts",
+    "J of Hearts",
+    "10 of Hearts",
+    "2 of Spades [Steel]"
+  ],
+  "jokers": [
+    {
+      "id": "j_joker",
+      "name": "Joker",
+      "type": "add_mult",
+      "value": 4
+    }
+  ]
+}

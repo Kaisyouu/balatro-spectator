@@ -1,0 +1,32 @@
+[
+  {
+    "id": "j_joker",
+    "name": "Joker",
+    "rarity": "Common",
+    "effect": {
+      "type": "add_mult",
+      "value": 4.0,
+      "condition": null
+    }
+  },
+  {
+    "id": "j_blueprint",
+    "name": "Blueprint",
+    "rarity": "Rare",
+    "effect": {
+      "type": "copy_joker",
+      "value": 1.0,
+      "condition": "copies the joker to its right"
+    }
+  },
+  {
+    "id": "j_hologram",
+    "name": "Hologram",
+    "rarity": "Uncommon",
+    "effect": {
+      "type": "x_mult_scaling",
+      "value": 0.25,
+      "condition": "gains x0.25 mult per card added to deck"
+    }
+  }
+]
